@@ -1,4 +1,4 @@
-#! /usr/local/bin/python
+#!/usr/bin/env python
 
 from urllib import urlopen
 from string import ascii_lowercase
